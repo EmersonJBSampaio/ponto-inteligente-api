@@ -1,4 +1,4 @@
-package com.kazale.pontointeligente.entities;
+package com.kazale.pontointeligente.api.entities;
 
 import java.io.Serializable;
 import java.util.Date;
